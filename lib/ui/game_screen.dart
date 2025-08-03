@@ -116,7 +116,7 @@ class _GameScreenState extends State<GameScreen> {
           body: Container(
             decoration: const BoxDecoration(
               image: DecorationImage(
-                image: AssetImage("assets/images/gaming_background.png"),
+                image: AssetImage("assets/images/background.png"),
                 fit: BoxFit.cover,
                 opacity: 0.06,
               ),
